@@ -42,7 +42,7 @@
 				<?php if($pagina == $numeroPaginas): ?>
 					<li class="disabled">&raquo;</li>
 				<?php else: ?>
-					<li><a href="?pagina=<?php echo $pagina + 2 ?>">&raquo;</a></li>
+					<li><a href="?pagina=<?php echo $pagina + 3 ?>">&raquo;</a></li>
 				<?php endif; ?>
 					
 			</ul>
